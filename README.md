@@ -1,4 +1,4 @@
-##Url Preview WordPress Plugin ##
+## Url Preview WordPress Plugin 
 This plugin fetches an image and description from the link inside editor and displays a preview similar to facebook and linkedin.
 It also has an option page, which can be used to add CSS to change the look and feel. it also supports buddypress.
  
